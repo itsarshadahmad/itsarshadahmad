@@ -31,10 +31,10 @@ I'm a full-stack web developer. I'm passionate about software development and wa
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsarshadahmad)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsarshadahmad)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsarshadahmad&show_icons=true&theme=tokyonight) 
+<!-- ![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsarshadahmad&show_icons=true&theme=tokyonight) -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itsarshadahmad)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itsarshadahmad) -->
 
-![Profile views](https://gpvc.arturio.dev/itsarshadahmad)  
+![Profile views](https://gpvc.arturio.dev/itsarshadahmad)
