@@ -48,7 +48,7 @@ I'm a full-stack web developer. I'm passionate about software development and wa
 
 <br>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsarshadahmad&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsarshadahmad&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsarshadahmad&show_icons=true&theme=tokyonight) -->
 
