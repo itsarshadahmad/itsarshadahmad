@@ -34,7 +34,7 @@ I'm a full-stack web developer. I'm passionate about software development and wa
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=30 align="left" style="margin-right:10px;" />
 
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=30 align="left" style="margin-right:10px;" /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=30 align="left" style="margin-right:10px;" />
 
 <br>
 
@@ -51,7 +51,5 @@ I'm a full-stack web developer. I'm passionate about software development and wa
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsarshadahmad&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsarshadahmad&show_icons=true&theme=tokyonight) -->
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itsarshadahmad) -->
 
 ![Profile views](https://gpvc.arturio.dev/itsarshadahmad)
