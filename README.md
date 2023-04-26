@@ -1,10 +1,11 @@
 ## Hi there 👋, my name is *Arshad Ahmad*
-I'm a full-stack web developer. I'm passionate about software development and want to learn and work with the best.
+I'm a software developer. I'm passionate about software development and want to learn and work with the best.
 
 - 🌱 I’m currently learning Full-Stack Development 
 - 👯 I’m looking to collaborate on great projects 
 - ⚡ Fun fact: I'm also gamer
 - 🌐 Website: https://arshadahmad.netlify.app/
+- 🔗 Links: https://itsarshadahmad.bio.link/
 
 ### **Languages and Tools**
 
@@ -37,15 +38,6 @@ I'm a full-stack web developer. I'm passionate about software development and wa
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=30 align="left" style="margin-right:10px;" />
 
 <br>
-
-### **Connect with me:**
-<a href="https://codepen.io/itsarshadahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="itsarshadahmad" height="30" width="40" style="margin-right:20px;" /></a>
-<a href="https://twitter.com/itsarshadahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsarshadahmad" height="30" width="40" style="margin-right:20px;" /></a>
-<a href="https://linkedin.com/in/itsarshadahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsarshadahmad" height="30" width="40" style="margin-right:20px;" /></a>
-<a href="https://codesandbox.com/itsarshadahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="itsarshadahmad" height="30" width="40" style="margin-right:20px;" /></a>
-<a href="https://www.hackerrank.com/arshadahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arshadahmad" height="30" width="40" style="margin-right:20px;" /></a>
-
-
 <br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsarshadahmad&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
