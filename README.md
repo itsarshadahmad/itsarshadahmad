@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is *Arshad Ahmad*
 I'm a software developer. I'm passionate about software development and want to learn and work with the best.
 
-- 🌱 I’m currently learning Full-Stack Development 
+- 🌱 I’m Software Developer 
 - 👯 I’m looking to collaborate on great projects 
 - ⚡ Fun fact: I'm also gamer
 - 🌐 Website: https://arshadahmad.netlify.app/
@@ -39,9 +39,3 @@ I'm a software developer. I'm passionate about software development and want to 
 
 <br>
 <br>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsarshadahmad&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsarshadahmad&show_icons=true&theme=tokyonight) -->
-
-![Profile views](https://gpvc.arturio.dev/itsarshadahmad)
