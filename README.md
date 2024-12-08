@@ -3,9 +3,9 @@ I'm a software developer. I'm passionate about software development and want to 
 
 - 🌱 I’m Software Developer 
 - 👯 I’m looking to collaborate on great projects 
-- ⚡ Fun fact: I'm also gamer
+- ⚡ Love to learn new things
 - 🌐 Website: https://arshadahmad.netlify.app/
-- 🔗 Links: https://itsarshadahmad.bio.link/
+- 🔗 Links: https://arshadx.bio.link/
 
 ### **Languages and Tools**
 
@@ -36,6 +36,16 @@ I'm a software developer. I'm passionate about software development and want to 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=30 align="left" style="margin-right:10px;" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=30 align="left" style="margin-right:10px;" />
+
+<img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" width=30 align="left" style="margin-right:10px;" />
+
+<img src="https://img.icons8.com/?size=100&id=F6H2fsqXKBwH&format=png&color=000000" width=30 align="left" style="margin-right:10px;" />
+
+<img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" width=30 align="left" style="margin-right:10px;" />
+
+
+
+<!-- <img src="" width=30 align="left" style="margin-right:10px;" /> -->
 
 <br>
 <br>
