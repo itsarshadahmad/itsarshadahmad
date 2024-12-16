@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is *Arshad Ahmad*
-I'm a software developer. I'm passionate about software development and want to learn and work with the best.
+I'm a Full Stack Developer. I'm passionate about software development and want to learn and work with the best.
 
 - 🌱 I’m Software Developer 
 - 👯 I’m looking to collaborate on great projects 
